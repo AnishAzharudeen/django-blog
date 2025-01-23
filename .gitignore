@@ -7,3 +7,6 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+
+# Ignore fixtures directory
+blog/fixtures/
